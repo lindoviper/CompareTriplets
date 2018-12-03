@@ -1,0 +1,5 @@
+/Users/lindombuthuma/Projects/CompareTriplets/CompareTriplets/bin/Debug/CompareTriplets.exe
+/Users/lindombuthuma/Projects/CompareTriplets/CompareTriplets/bin/Debug/CompareTriplets.pdb
+/Users/lindombuthuma/Projects/CompareTriplets/CompareTriplets/obj/x86/Debug/CompareTriplets.csproj.CoreCompileInputs.cache
+/Users/lindombuthuma/Projects/CompareTriplets/CompareTriplets/obj/x86/Debug/CompareTriplets.exe
+/Users/lindombuthuma/Projects/CompareTriplets/CompareTriplets/obj/x86/Debug/CompareTriplets.pdb
